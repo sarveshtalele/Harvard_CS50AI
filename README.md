@@ -1,3 +1,5 @@
-# Professional Certificate Program Computer Science of Artificial Intelligence Projects (HarvardX)
+# HarvardX: CS50x and CS50AI Project Implementation 
+
+
 
 
