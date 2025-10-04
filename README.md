@@ -1,3 +1,3 @@
-# Professional Certificate Program Computer Science of Artificial Intelligence Projects
+# Professional Certificate Program Computer Science of Artificial Intelligence Projects (HarvardX)
 
 
